@@ -7,7 +7,7 @@ I was angry at a malicious document because it was password protected. So I made
 https://www.hybrid-analysis.com/sample/7b6c00c1a9ec9aaf5538b52ad3736515bd81e97b7bf0f5a3e8dc2e2836f59dc7
 
 
-![Alt text](OfficeBrute/officebrute.png?raw=true "Screenshot") 
+ [[https://github.com/olanderofc/OfficeBrute/blob/master/officebrute.png|alt=octocat]]
 
 ## Warning
 
