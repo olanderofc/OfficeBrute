@@ -6,6 +6,9 @@ Why did you make this?
 I was angry at a malicious document because it was password protected. So I made a thing to brute force the password by using a wordlist.  You could try it on this file for example
 https://www.hybrid-analysis.com/sample/7b6c00c1a9ec9aaf5538b52ad3736515bd81e97b7bf0f5a3e8dc2e2836f59dc7
 
+
+![Alt text](OfficeBrute/officebrute.png?raw=true "Screenshot") 
+
 ## Warning
 
 I have not looked into how the communication using C# with word documents are impacting macros or exploits. It may be possible that you execute code which means that you should never run OfficeBrute on a live system. Only use it with malicious samples where you are in control. Microsoft is not entirely clear on how everything works.
