@@ -3,7 +3,7 @@ OfficeBrute
 
 Why did you make this?
 ---------------------
-I was angry at a malicious document because it was password protected. So I made a thing to brute force the password by using a wordlist.  You could try it on this file for example
+I was angry at a malicious document because it was password protected. So I made a thing to brute force the password using a wordlist.  You could try it on this file for example
 https://www.hybrid-analysis.com/sample/7b6c00c1a9ec9aaf5538b52ad3736515bd81e97b7bf0f5a3e8dc2e2836f59dc7
 
 ![alt text](officebrute.png "Screenshot")
